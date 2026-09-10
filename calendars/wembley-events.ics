@@ -4,16 +4,6 @@ PRODID:-//Wembley Event Calendar//EN
 X-WR-CALNAME:Wembley Stadium Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:8d380dd54ae43f97c767@wembley-event-alert
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Bon Jovi
-LOCATION:Wembley Stadium\, London
-DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
-URL:https://www.wembleystadium.com/Events.aspx?e=ue
-END:VEVENT
-BEGIN:VEVENT
 UID:237cbd710e8ce7eb88e7@wembley-event-alert
 DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
