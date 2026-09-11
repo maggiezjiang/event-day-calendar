@@ -93,4 +93,34 @@ LOCATION:Wembley Stadium\, London
 DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
+BEGIN:VEVENT
+UID:f602f3aec075980a3160@wembley-event-alert
+DTSTAMP:20270825T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Harry Styles
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:537e9610361b777a430c@wembley-event-alert
+DTSTAMP:20270827T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Harry Styles
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:90a37e4a64587bebf2c9@wembley-event-alert
+DTSTAMP:20270828T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Harry Styles
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
 END:VCALENDAR
