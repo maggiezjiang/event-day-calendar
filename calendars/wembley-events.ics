@@ -4,16 +4,6 @@ PRODID:-//Wembley Event Calendar//EN
 X-WR-CALNAME:Wembley Stadium Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9a4551323fa0f1aead95@wembley-event-alert
-DTSTAMP:20260919T000000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Union Jack Classic
-LOCATION:Wembley Stadium\, London
-DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
-URL:https://www.wembleystadium.com/Events.aspx?e=ue
-END:VEVENT
-BEGIN:VEVENT
 UID:869756de68b7a137c018@wembley-event-alert
 DTSTAMP:20260926T000000Z
 DTSTART;VALUE=DATE:20260926
