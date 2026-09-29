@@ -34,6 +34,16 @@ DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
 BEGIN:VEVENT
+UID:b731eb4c809a25e1d9a8@wembley-event-alert
+DTSTAMP:20270703T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Slipknot
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
 UID:aed2d640679d08237274@wembley-event-alert
 DTSTAMP:20270723T000000Z
 DTSTART;VALUE=DATE:20270723
