@@ -4,16 +4,6 @@ PRODID:-//Wembley Event Calendar//EN
 X-WR-CALNAME:Wembley Stadium Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:abebcfe410ba6f82fc9f@wembley-event-alert
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:England v Czechia
-LOCATION:Wembley Stadium\, London
-DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
-URL:https://www.wembleystadium.com/Events.aspx?e=ue
-END:VEVENT
-BEGIN:VEVENT
 UID:af85e81219e33fbf780b@wembley-event-alert
 DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261018
