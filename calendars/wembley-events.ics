@@ -24,6 +24,16 @@ DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
 BEGIN:VEVENT
+UID:7e6af5e7efb4802d3164@wembley-event-alert
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:England v Ukraine
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
 UID:b731eb4c809a25e1d9a8@wembley-event-alert
 DTSTAMP:20270703T000000Z
 DTSTART;VALUE=DATE:20270703
