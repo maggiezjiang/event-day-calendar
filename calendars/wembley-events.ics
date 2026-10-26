@@ -4,16 +4,6 @@ PRODID:-//Wembley Event Calendar//EN
 X-WR-CALNAME:Wembley Stadium Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:af85e81219e33fbf780b@wembley-event-alert
-DTSTAMP:20261018T000000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Jacksonville Jaguars 2026
-LOCATION:Wembley Stadium\, London
-DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
-URL:https://www.wembleystadium.com/Events.aspx?e=ue
-END:VEVENT
-BEGIN:VEVENT
 UID:144a61cb7d6ef2cda0e5@wembley-event-alert
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -29,6 +19,36 @@ DTSTAMP:20261205T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:England v Ukraine
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:29dc86d08ee2c7ea72e8@wembley-event-alert
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:England v Ukraine - Away Supporters
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:8943cdeddae39947d684@wembley-event-alert
+DTSTAMP:20270618T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sam Fender
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:10d7b3fb04a9e1133f76@wembley-event-alert
+DTSTAMP:20270620T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Sam Fender
 LOCATION:Wembley Stadium\, London
 DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
