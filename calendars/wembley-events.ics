@@ -123,4 +123,14 @@ LOCATION:Wembley Stadium\, London
 DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
+BEGIN:VEVENT
+UID:667cb5b1e7f168ad91cd@wembley-event-alert
+DTSTAMP:20270902T000000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Sam Fender
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
 END:VCALENDAR
