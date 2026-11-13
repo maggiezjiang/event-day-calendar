@@ -4,16 +4,6 @@ PRODID:-//Wembley Event Calendar//EN
 X-WR-CALNAME:Wembley Stadium Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:144a61cb7d6ef2cda0e5@wembley-event-alert
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:England v Croatia
-LOCATION:Wembley Stadium\, London
-DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
-URL:https://www.wembleystadium.com/Events.aspx?e=ue
-END:VEVENT
-BEGIN:VEVENT
 UID:7e6af5e7efb4802d3164@wembley-event-alert
 DTSTAMP:20261205T000000Z
 DTSTART;VALUE=DATE:20261205
