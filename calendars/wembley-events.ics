@@ -123,4 +123,24 @@ LOCATION:Wembley Stadium\, London
 DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
+BEGIN:VEVENT
+UID:ca7ef68c7beb34b774bf@wembley-event-alert
+DTSTAMP:20270909T000000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Foo Fighters
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:039ed2cc2f70475b18c1@wembley-event-alert
+DTSTAMP:20270911T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Foo Fighters
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
 END:VCALENDAR
