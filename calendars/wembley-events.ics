@@ -24,6 +24,26 @@ DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=
 URL:https://www.wembleystadium.com/Events.aspx?e=ue
 END:VEVENT
 BEGIN:VEVENT
+UID:32a6a59c5a6f70a4158b@wembley-event-alert
+DTSTAMP:20270321T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:The Carabao Cup Final
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a2968df7bf3195754f@wembley-event-alert
+DTSTAMP:20270330T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:England v Norway
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:Wembley Stadium event. https://www.wembleystadium.com/Events.aspx?e=ue
+URL:https://www.wembleystadium.com/Events.aspx?e=ue
+END:VEVENT
+BEGIN:VEVENT
 UID:8943cdeddae39947d684@wembley-event-alert
 DTSTAMP:20270618T000000Z
 DTSTART;VALUE=DATE:20270618
